@@ -47,13 +47,15 @@ Finally, the project evaluates the computational performance of FPGA-based execu
 
 # 🔧 NOA Toolbox
 
-This project uses the **NOA Toolbox**, a Simulink-based development environment designed to simplify FPGA acceleration workflows. It enables engineers to deploy Simulink models onto PYNQ-enabled FPGA platforms while abstracting low-level hardware complexity and supporting hardware/software interaction. :contentReference[oaicite:0]{index=0}
+This project uses the **NOA Toolbox**, a Simulink-based development environment designed to simplify FPGA acceleration workflows. It enables engineers to deploy Simulink models onto PYNQ-enabled FPGA platforms while abstracting low-level hardware complexity and supporting hardware/software interaction.
 
-More information:
+The **NOA Toolbox** is developed by **Rexys Technologies** and provides an efficient framework for deploying, controlling, and validating FPGA-based applications directly from MATLAB/Simulink.
 
-- NOA Toolbox (MathWorks): :contentReference[oaicite:1]{index=1}
-- Rexys Technologies: :contentReference[oaicite:2]{index=2}
+### More Information
 
+- **[NOA Toolbox (MathWorks)](https://www.mathworks.com/products/connections/product_detail/noa-toolbox.html)**
+- **[Rexys Technologies](https://rexys.io/fr/accueil/)**
+  
 ---
 
 # 👨‍💻 Author
